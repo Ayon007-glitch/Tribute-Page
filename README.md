@@ -6,4 +6,4 @@ The project is a simple HTML and CSS-based web page designed to practice structu
 
 🌐 Live Demo
 
-🔗 View the Tribute Page Online :
+🔗 View the Tribute Page Online : https://ayon007-glitch.github.io/Tribute-Page/
